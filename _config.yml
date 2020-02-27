@@ -95,16 +95,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://"
+        title: "Github",
+        href: "https://github.com/howdy-king"
     },{
-        title: "简书·BY",
-        href: "http://"
-    },{
-        title: "Apple",
-        href: "https://"
-    },{
-        title: "Apple Developer",
-        href: "https://"
+        title: "Zhihu",
+        href: "https://www.zhihu.com/people/king-35-34-23"
     }
 ]
